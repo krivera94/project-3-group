@@ -1,4 +1,4 @@
-﻿Rank,Male name,Number of males,percent of total males,Female name,Number of females,percent of total females
+NameRank,MaleName,MaleCount,MalePer,FemaleName,FemaleCount,FemalePer
 1,Jacob,"22,144",1.08%,Isabella,"22,929",1.17%
 2,Ethan,"18,011",0.88%,Sophia,"20,652",1.05%
 3,Michael,"17,374",0.85%,Emma,"17,357",0.89%
@@ -9,3 +9,13 @@
 8,Daniel,"15,856",0.77%,Madison,"13,191",0.67%
 9,Aiden,"15,544",0.76%,Chloe,"11,761",0.60%
 10,Anthony,"15,503",0.75%,Mia,"10,646",0.54%
+11,Joshua,"15,458",0.75%,Addison,"10,331",0.53%
+12,Mason,"14,851",0.72%,Elizabeth,"10,276",0.52%
+13,Christopher,"14,294",0.70%,Ella,"9,880",0.50%
+14,Andrew,"14,263",0.69%,Natalie,"8,786",0.45%
+15,David,"14,215",0.69%,Samantha,"8,409",0.43%
+16,Matthew,"14,141",0.69%,Alexis,"8,272",0.42%
+17,Logan,"14,027",0.68%,Lily,"7,991",0.41%
+18,Elijah,"13,911",0.68%,Grace,"7,686",0.39%
+19,James,"13,895",0.68%,Hailey,"7,024",0.36%
+20,Joseph,"13,848",0.67%,Hannah,"6,997",0.36%
