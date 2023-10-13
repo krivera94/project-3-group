@@ -1,4 +1,4 @@
-﻿Rank,Male name,Number of males,percent of total males,Female name,Number of females,percent of total females
+﻿NameRank,MaleName,MaleCount,MalePer,FemaleName,FemaleCount,FemalePer
 1,Liam,"19,828",1.07%,Olivia,"17,664",1.00%
 2,Noah,"18,407",1.00%,Emma,"15,680",0.89%
 3,Oliver,"14,261",0.77%,Ava,"13,179",0.75%
@@ -9,3 +9,13 @@
 8,Lucas,"11,360",0.61%,Mia,"11,243",0.64%
 9,Henry,"10,776",0.58%,Evelyn,"9,503",0.54%
 10,Alexander,"10,246",0.55%,Harper,"8,834",0.50%
+11,Mason,"10,097",0.55%,Camila,"8,159",0.46%
+12,Michael,"9,805",0.53%,Abigail,"7,891",0.45%
+13,Ethan,"9,533",0.52%,Gianna,"7,890",0.45%
+14,Daniel,"9,500",0.51%,Luna,"7,834",0.44%
+15,Jacob,"9,275",0.50%,Ella,"7,352",0.42%
+16,Logan,"9,140",0.49%,Elizabeth,"7,278",0.41%
+17,Jackson,"9,115",0.49%,Sofia,"6,977",0.40%
+18,Levi,"9,076",0.49%,Emily,"6,908",0.39%
+19,Sebastian,"9,000",0.49%,Avery,"6,737",0.38%
+20,Mateo,"8,990",0.49%,Mila,"6,637",0.38%
