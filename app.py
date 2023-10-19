@@ -7,4 +7,4 @@ from flask_cors import CORS
 
 # Create engine
 
-engine = create_engine("postgresql+psycopg2:postgres:Wildcat2023!@localhost:5432/project_3")
+engine = create_engine("postgresql+psycopg2:postgres:yourpassword@localhost:5432/project_3")
