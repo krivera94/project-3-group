@@ -1,10 +1,23 @@
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
-
 from flask import Flask, jsonify, render_template
 from flask_cors import CORS
+from sqlalchemy import create_engine
+import json
 
-# Create engine
+app = Flask(__name__, template_folder="")
 
-engine = create_engine("postgresql+psycopg2:postgres:yourpassword@localhost:5432/project_3")
+CORS(app, resources={r"/*": {"origins": "*"}})
+
+engine = create_engine("postgresql+psycopg2://postgres:postgres@localhost:5432/babynames")
+
+@app.route('/')
+def index():
+    return render_template('project3.html')
+
+@app.route('/data')
+def get_data():
+    with open("data.json", "r") as f:
+        data = json.load(f)
+    return jsonify(data)
+
+if __name__ == '__main__':
+    app.run(debug=True)
