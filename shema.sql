@@ -55,7 +55,7 @@ CREATE TABLE NAMES2020 (
 
 Select * from NAMES1980;
 
--- Create a new table from the query result
+-- Create a new Combined Table
 CREATE TABLE CombinedNames AS 
 SELECT
     NAMES2020.NameRank,
