@@ -28,6 +28,7 @@ D3 Stacked Area: https://d3-graph-gallery.com/stackedarea.html
 
 D3 Circular barplot: https://d3-graph-gallery.com/circular_barplot.html
 
+Presentation Slides: https://docs.google.com/presentation/d/1B0Udl6IGsQQH9NRP9r8lpz7gWq4u7Mv7t10GNt9j7MU/edit#slide=id.gc6f9e470d_0_0
 
 CSV to JSON from LA:
 import csv
